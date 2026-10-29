@@ -1,0 +1,32 @@
+{
+  "src": "/home/gma/Pictures/862480971_18634046542047018_3274318619214845719_n.jpg",
+  "out": "/tmp/opencode/test_from_job.jpg",
+  "quality": 96,
+  "caption": {
+    "region": [157, 6, 1049, 292],
+    "lines": [
+      "1932-ben a német propaganda",
+      "azt mutatta, milyen lesz",
+      "Franciaország 100 év múlva."
+    ],
+    "baselines": [84, 177, 268],
+    "center_x": 602.5,
+    "font": "/home/gma/.local/share/fonts/RobotoCondensed-VF.ttf",
+    "size": 80,
+    "weight": 400,
+    "squeeze": 0.85,
+    "color": [12, 12, 12]
+  },
+  "sign": {
+    "box": [860, 680, 1120, 870],
+    "quad": [[904, 753], [1074, 711], [1080, 823], [899, 838]],
+    "border_width": 7,
+    "angle": 13.9,
+    "center": [991, 781],
+    "lines": [["TILOS", -28], ["ETETNI", 26]],
+    "font": "/home/gma/.local/share/fonts/Kalam-Bold.ttf",
+    "size": 30,
+    "tracking": 4,
+    "color": [78, 66, 46]
+  }
+}
